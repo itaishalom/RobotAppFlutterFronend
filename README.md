@@ -2,7 +2,7 @@
 
 This is a Flutter application post and displays the robot's location information. It utilizes a clean architecture approach with a separation of concerns between domain data and the presentation layer, adhering to SOLID principles for maintainable and testable code.
 
-[Check the backend app](https://github.com/itaishalom/RobotSpringServer)
+[Check the backend app](https://github.com/itaishalom/JavaSpringServer)
 
 **⭐ Features:**
 
